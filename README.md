@@ -1,2 +1,2 @@
 # bookbot
-a CLI guided project from boot.dev
+BookBot is my first project!
